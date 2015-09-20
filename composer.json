@@ -1,0 +1,12 @@
+{
+  "require": {
+    "ratchet/rfc6455": "dev-psr7",
+    "voryx/thruway": "dev-master",
+    "react/http": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  }
+}
